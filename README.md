@@ -1,16 +1,16 @@
 # DIY - Programmed Christmas lights
-The holiday season is here, and with it comes the joy of decorating and spreading cheer. One way to make your celebrations truly stand out is by creating your own custom Christmas lighting. A DIY project brings a personal touch, turning ordinary lights into something unique and memorable. Besides the festive fun, it's a creative way to learn and experiment with technology.  
+Take your holiday decorations to the next level with a custom fairy light display powered by an Arduino Nano. This project blends creativity and basic electronics, allowing you to program fairy lights with unique patterns and effects that reflect your personal style. By replacing generic, store-bought solutions with something custom-made, you’ll create a decoration that’s not only festive but truly one of a kind. With accessible components and straightforward steps, it offers an engaging way to add warmth and charm to your holiday season.  
 
 ├ src  
 │  ├ test  
 │  └ main  
-├ lib  
 └ schema  
 
 ## Documentation
 Discover a world of knowledge hosted on [HiBit](https://www.hibit.dev). Serving as your informational hub, this resource offers clear instructions and valuable insights to explore a spectrum of articles, tutorials, stories, news, and beyond.  
 
 You'll find detailed instructions and comprehensive documentation for this repository on:
+- [DIY - Programmed Christmas lights](https://www.hibit.dev/posts/220/dyi-programmed-christmas-lights)
 - [DIY - Programmed Christmas lights: concept](https://www.hibit.dev/posts/216/dyi-programmed-christmas-lights-concept)
 - [DIY - Programmed Christmas lights: mounting](https://www.hibit.dev/posts/217/dyi-programmed-christmas-lights-mounting)
 - [DIY - Programmed Christmas lights: code](https://www.hibit.dev/posts/218/dyi-programmed-christmas-lights-code)
